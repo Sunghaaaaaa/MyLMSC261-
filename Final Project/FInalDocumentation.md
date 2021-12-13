@@ -27,4 +27,6 @@ src(o0).modulateHue(src(o0).scale(1.02),1)
 # Accomplishments, and further improvments.
 
 I figured out how to interact with simple audio signals with adding some fun variables.
+You can make noise to change the color, and move the mouse.
 It would be better if the visual reactions are more lively and detailed.  
+Mine is very limited. 
